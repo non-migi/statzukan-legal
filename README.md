@@ -15,5 +15,5 @@
 書いてある。**AdMob などの広告を入れるときは `/privacy/` の 1章・4章・7章を直し、広告の章を足すこと**
 （ゲーム理論図鑑の `gametheorylab-legal` の 3章「広告について」がそのまま下敷きになる）。
 
-TelemetryDeck に送るイベントを増やしたときは、2章の表の「例」も合わせて直す
+Aptabase に送るイベントを増やしたときは、2章の表の「例」も合わせて直す
 （アプリ側は `StatZukan/Core/Services/AnalyticsManager.swift`）。
